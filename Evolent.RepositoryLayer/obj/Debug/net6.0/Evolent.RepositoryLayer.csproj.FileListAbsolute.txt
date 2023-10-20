@@ -1,0 +1,15 @@
+D:\Projects\Assignment\Evolent.RepositoryLayer\bin\Debug\net6.0\Evolent.RepositoryLayer.deps.json
+D:\Projects\Assignment\Evolent.RepositoryLayer\bin\Debug\net6.0\Evolent.RepositoryLayer.dll
+D:\Projects\Assignment\Evolent.RepositoryLayer\bin\Debug\net6.0\Evolent.RepositoryLayer.pdb
+D:\Projects\Assignment\Evolent.RepositoryLayer\obj\Debug\net6.0\Evolent.RepositoryLayer.csproj.AssemblyReference.cache
+D:\Projects\Assignment\Evolent.RepositoryLayer\obj\Debug\net6.0\Evolent.RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Assignment\Evolent.RepositoryLayer\obj\Debug\net6.0\Evolent.RepositoryLayer.AssemblyInfoInputs.cache
+D:\Projects\Assignment\Evolent.RepositoryLayer\obj\Debug\net6.0\Evolent.RepositoryLayer.AssemblyInfo.cs
+D:\Projects\Assignment\Evolent.RepositoryLayer\obj\Debug\net6.0\Evolent.RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Projects\Assignment\Evolent.RepositoryLayer\obj\Debug\net6.0\Evolent.RepositoryLayer.dll
+D:\Projects\Assignment\Evolent.RepositoryLayer\obj\Debug\net6.0\refint\Evolent.RepositoryLayer.dll
+D:\Projects\Assignment\Evolent.RepositoryLayer\obj\Debug\net6.0\Evolent.RepositoryLayer.pdb
+D:\Projects\Assignment\Evolent.RepositoryLayer\obj\Debug\net6.0\ref\Evolent.RepositoryLayer.dll
+D:\Projects\Assignment\Evolent.RepositoryLayer\bin\Debug\net6.0\Evolent.DomainLayer.dll
+D:\Projects\Assignment\Evolent.RepositoryLayer\bin\Debug\net6.0\Evolent.DomainLayer.pdb
+D:\Projects\Assignment\Evolent.RepositoryLayer\obj\Debug\net6.0\Evolent.RepositoryLayer.csproj.CopyComplete

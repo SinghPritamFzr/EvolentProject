@@ -1,0 +1,17 @@
+D:\Projects\Assignment\Evolent.ServiceLayer\bin\Debug\net6.0\Evolent.ServiceLayer.deps.json
+D:\Projects\Assignment\Evolent.ServiceLayer\bin\Debug\net6.0\Evolent.ServiceLayer.dll
+D:\Projects\Assignment\Evolent.ServiceLayer\bin\Debug\net6.0\Evolent.ServiceLayer.pdb
+D:\Projects\Assignment\Evolent.ServiceLayer\obj\Debug\net6.0\Evolent.ServiceLayer.csproj.AssemblyReference.cache
+D:\Projects\Assignment\Evolent.ServiceLayer\obj\Debug\net6.0\Evolent.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Assignment\Evolent.ServiceLayer\obj\Debug\net6.0\Evolent.ServiceLayer.AssemblyInfoInputs.cache
+D:\Projects\Assignment\Evolent.ServiceLayer\obj\Debug\net6.0\Evolent.ServiceLayer.AssemblyInfo.cs
+D:\Projects\Assignment\Evolent.ServiceLayer\obj\Debug\net6.0\Evolent.ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Projects\Assignment\Evolent.ServiceLayer\obj\Debug\net6.0\Evolent.ServiceLayer.dll
+D:\Projects\Assignment\Evolent.ServiceLayer\obj\Debug\net6.0\refint\Evolent.ServiceLayer.dll
+D:\Projects\Assignment\Evolent.ServiceLayer\obj\Debug\net6.0\Evolent.ServiceLayer.pdb
+D:\Projects\Assignment\Evolent.ServiceLayer\obj\Debug\net6.0\ref\Evolent.ServiceLayer.dll
+D:\Projects\Assignment\Evolent.ServiceLayer\bin\Debug\net6.0\Evolent.DomainLayer.dll
+D:\Projects\Assignment\Evolent.ServiceLayer\bin\Debug\net6.0\Evolent.RepositoryLayer.dll
+D:\Projects\Assignment\Evolent.ServiceLayer\bin\Debug\net6.0\Evolent.DomainLayer.pdb
+D:\Projects\Assignment\Evolent.ServiceLayer\bin\Debug\net6.0\Evolent.RepositoryLayer.pdb
+D:\Projects\Assignment\Evolent.ServiceLayer\obj\Debug\net6.0\Evolent.ServiceLayer.csproj.CopyComplete

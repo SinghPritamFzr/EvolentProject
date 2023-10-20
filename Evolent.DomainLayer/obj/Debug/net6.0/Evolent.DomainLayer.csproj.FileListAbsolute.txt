@@ -1,0 +1,14 @@
+D:\Projects\Assignment\Evolent.DomainLayer\bin\Debug\net6.0\Evolent.DomainLayer.deps.json
+D:\Projects\Assignment\Evolent.DomainLayer\bin\Debug\net6.0\Evolent.DomainLayer.dll
+D:\Projects\Assignment\Evolent.DomainLayer\bin\Debug\net6.0\Evolent.DomainLayer.pdb
+D:\Projects\Assignment\Evolent.DomainLayer\obj\Debug\net6.0\Evolent.DomainLayer.csproj.AssemblyReference.cache
+D:\Projects\Assignment\Evolent.DomainLayer\obj\Debug\net6.0\Evolent.DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Assignment\Evolent.DomainLayer\obj\Debug\net6.0\Evolent.DomainLayer.AssemblyInfoInputs.cache
+D:\Projects\Assignment\Evolent.DomainLayer\obj\Debug\net6.0\Evolent.DomainLayer.AssemblyInfo.cs
+D:\Projects\Assignment\Evolent.DomainLayer\obj\Debug\net6.0\Evolent.DomainLayer.csproj.CoreCompileInputs.cache
+D:\Projects\Assignment\Evolent.DomainLayer\obj\Debug\net6.0\Evolent.DomainLayer.dll
+D:\Projects\Assignment\Evolent.DomainLayer\obj\Debug\net6.0\refint\Evolent.DomainLayer.dll
+D:\Projects\Assignment\Evolent.DomainLayer\obj\Debug\net6.0\Evolent.DomainLayer.pdb
+D:\Projects\Assignment\Evolent.DomainLayer\obj\Debug\net6.0\ref\Evolent.DomainLayer.dll
+D:\Projects\Assignment\Evolent.DomainLayer\bin\Debug\net6.0\Evolent.DomainLayer.runtimeconfig.json
+D:\Projects\Assignment\Evolent.DomainLayer\obj\Debug\net6.0\Evolent.DomainLayer.genruntimeconfig.cache
