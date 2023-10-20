@@ -7,6 +7,7 @@ namespace ServiceLayer.CustomServices
     public class EmployeeService : ICustomService<Employee>
     {
         private readonly IRepository<Employee> _employeeRepository;
+      
         public EmployeeService(IRepository<Employee> studentRepository)
         {
             _employeeRepository = studentRepository;

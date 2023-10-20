@@ -20,19 +20,7 @@ namespace EvolentProject.WebAPI.Controllers
             _applicationDbContext = applicationDbContext;
         }
 
-        [HttpGet(nameof(GetEmployeeById))]
-        public IActionResult GetEmployeeById(int Id)
-        {
-            var obj = _customService.Get(Id);
-            if (obj == null)
-            {
-                return NotFound();
-            }
-            else
-            {
-                return Ok(obj);
-            }
-        }
+        
         [HttpGet(nameof(GetAllEmployee))]
         public IActionResult GetAllEmployee()
         {

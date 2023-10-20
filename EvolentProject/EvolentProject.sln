@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolentProject.WebAPI", "EvolentProject.WebAPI.csproj", "{6E8208F3-F7B3-4D22-B4C8-01C3F4292E11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvolentProject.WebAPI", "EvolentProject.WebAPI.csproj", "{6E8208F3-F7B3-4D22-B4C8-01C3F4292E11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.ServiceLayer", "..\Evolent.ServiceLayer\Evolent.ServiceLayer.csproj", "{915315FD-E749-4C1D-9D24-87382DFB9F64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evolent.ServiceLayer", "..\Evolent.ServiceLayer\Evolent.ServiceLayer.csproj", "{915315FD-E749-4C1D-9D24-87382DFB9F64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.RepositoryLayer", "..\Evolent.RepositoryLayer\Evolent.RepositoryLayer.csproj", "{0AB2C4FD-8689-4686-9DCC-7B2398385698}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evolent.RepositoryLayer", "..\Evolent.RepositoryLayer\Evolent.RepositoryLayer.csproj", "{0AB2C4FD-8689-4686-9DCC-7B2398385698}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.DomainLayer", "..\Evolent.DomainLayer\Evolent.DomainLayer.csproj", "{70898886-0D74-4685-BFAC-27BFDFABAA2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evolent.DomainLayer", "..\Evolent.DomainLayer\Evolent.DomainLayer.csproj", "{70898886-0D74-4685-BFAC-27BFDFABAA2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.UnitTest", "..\Evolent.UnitTest\Evolent.UnitTest.csproj", "{9B363D17-B098-4DD5-861D-26A832FA38B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{70898886-0D74-4685-BFAC-27BFDFABAA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70898886-0D74-4685-BFAC-27BFDFABAA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70898886-0D74-4685-BFAC-27BFDFABAA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B363D17-B098-4DD5-861D-26A832FA38B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B363D17-B098-4DD5-861D-26A832FA38B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B363D17-B098-4DD5-861D-26A832FA38B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B363D17-B098-4DD5-861D-26A832FA38B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
